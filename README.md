@@ -168,3 +168,15 @@ Age groups:
 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞
 
 <img width="1302" height="728" alt="Screenshot 2026-11-16 165045" src="https://github.com/user-attachments/assets/8e374ffe-75ae-46d2-89ee-8bb7cbc29dc2" />
+
+---
+
+𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
+
+<img width="1303" height="730" alt="Screenshot 2026-11-16 170234" src="https://github.com/user-attachments/assets/fa586037-35fa-4f41-8931-aa2b2961ed69" />
+
+---
+
+𝐒𝐚𝐥𝐞𝐬 𝐌𝐨𝐝𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+
+
