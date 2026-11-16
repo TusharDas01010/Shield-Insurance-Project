@@ -126,3 +126,37 @@ Age groups:
 ● 65+
 
 ---
+
+𝐊𝐞𝐲 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 & 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬
+
+𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
+
+● 𝐂𝐢𝐭𝐲 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: Delhi NCR generated the highest revenue and had the highest customer base.
+
+● 𝐒𝐚𝐥𝐞𝐬 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: Offline Agent and Offline Direct channels contributed approximately 70% of total revenue and customers, while online channels contributed approximately 30%.
+
+● 𝐏𝐨𝐥𝐢𝐜𝐲 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: POL2005HEL generated the highest revenue at approximately ₹324 million.
+
+● 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐃𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧: POL4321HEL had the highest customer count at 4,434, despite generating relatively low revenue.
+
+● 𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: Customers aged 31–40 contributed the highest revenue and customer count.
+
+● 𝐒𝐞𝐭𝐭𝐥𝐞𝐦𝐞𝐧𝐭 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞: The 65+ age group had the highest expected settlement percentage at 71.95%, while the 18–24 age group had the lowest at 39.45%
+
+---
+
+𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬
+
+● Strengthen digital sales channels to improve online revenue contribution.
+
+● Focus on customer retention and acquisition in the 31–40 age group.
+
+● Investigate why some policies attract more customers but generate lower revenue.
+
+● Develop targeted marketing campaigns for younger customer segments.
+
+● Monitor settlement patterns across age groups to support better financial planning.
+
+● Continue investing in high-performing cities while identifying growth opportunities in other regions.
+
+---
