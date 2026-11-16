@@ -206,3 +206,7 @@ Age groups:
 𝐀𝐮𝐭𝐡𝐨𝐫
 
 𝐓𝐮𝐬𝐡𝐚𝐫 𝐃𝐚𝐬
+
+[🎥 Watch Video Presentation](https://youtu.be/RNQ9-CrdNKM)
+
+[📊 Explore Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzBhYzNjMDktMDU2YS00Y2Y1LTgzNmQtOTEyMzhjMmRhOWMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
