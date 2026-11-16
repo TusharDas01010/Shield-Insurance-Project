@@ -184,3 +184,25 @@ Age groups:
 ---
 
 𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+
+<img width="1311" height="726" alt="Screenshot 2026-11-16 171134" src="https://github.com/user-attachments/assets/4dbafe9a-6f93-40b5-8a24-818a2a4236fa" />
+
+---
+
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧
+
+𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧: AtliQ Technologies
+
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭: Shield Insurance Power BI Dashboard
+
+𝐃𝐨𝐦𝐚𝐢𝐧: Insurance Analytics
+
+𝐑𝐨𝐥𝐞: Power BI Data Analyst Intern.
+
+𝐓𝐨𝐨𝐥𝐬: Power BI, DAX, Power Query, Excel
+
+---
+
+𝐀𝐮𝐭𝐡𝐨𝐫
+
+𝐓𝐮𝐬𝐡𝐚𝐫 𝐃𝐚𝐬
