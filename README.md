@@ -39,3 +39,4 @@ The business needs a centralized dashboard to monitor performance and understand
 
 ---
 
+<img width="708" height="395" alt="Screenshot 2026-11-16 161843" src="https://github.com/user-attachments/assets/8e3116d1-fddf-4b65-98fd-49c56034cae9" />
