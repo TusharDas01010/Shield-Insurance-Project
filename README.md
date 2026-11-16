@@ -166,3 +166,5 @@ Age groups:
 ---
 
 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞
+
+<img width="1302" height="728" alt="Screenshot 2026-11-16 165045" src="https://github.com/user-attachments/assets/8e374ffe-75ae-46d2-89ee-8bb7cbc29dc2" />
