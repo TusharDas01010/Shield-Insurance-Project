@@ -179,4 +179,8 @@ Age groups:
 
 𝐒𝐚𝐥𝐞𝐬 𝐌𝐨𝐝𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
+<img width="1297" height="721" alt="Screenshot 2026-11-16 170757" src="https://github.com/user-attachments/assets/ff1fd54a-eb49-48a1-80a4-d370f26d068a" />
 
+---
+
+𝐀𝐠𝐞 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
